@@ -17,3 +17,4 @@ This application is built as a **Single Page Application (SPA)** using a modern 
 ---
 **Note:** This source code is part of an academic thesis. All rights reserved. 
 For access to the full documentation or source files, please contact the author.
+© 2026 Agadagba Esther. All Rights Reserved. This project and its 3D assets are for the author's thesis evaluation only.
